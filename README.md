@@ -1,4 +1,4 @@
 # WriteDigTech
 WRIT 4662W - Writing with Digital Technology: Lindgren
 
-Test Commit.
+http://4662wf15.clindgrencv.com/
