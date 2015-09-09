@@ -36,6 +36,8 @@ Snell, Jeremny. "FLEXIBLE EVERYTHING Getting Responsive With Web Design." Comput
 
 Nancy R. Glassman & Phil Shen (2014) One Site Fits All: Responsive Web Design, Journal of Electronic Resources in Medical Libraries, 11:2, 78-90, DOI: 10.1080/15424065.2014.908347     That is not in MLA.
 
+Magazine, Smashing. Responsive Web Design, Volume 2. Smashing Magazine GmbH. © 2014. Books24x7. <http://common.books24x7.com/toc.aspx?bookid=73360> (accessed September 9, 2015)  (I don't know if I can view this off-campus)
+
 ## History
 
 ## Purpose
