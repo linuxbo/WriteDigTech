@@ -23,9 +23,15 @@ I found this article facinating. I have a learning disability (https://en.wikipe
 
 ## Table History
 
+Bradley Dilger discussed the history of the table HTML tag, and its use and abuse over time. In the past, the table tag was used and even recommended as a way to arrange the layouts of webpages. Web design ended up evolving around decisions made around needed to use table layouts, like text commonly being left-aligned. As coding standards evolved, the table tag was less recommended for layouts, and more for content organization. Layouts should now be made with CSS, but CSS layouts still end up looking very grid-like. Dilger asserts that the grid-like layout of the web has limited designs for websites in a negative way. It is stated that 'breaking' the grid-like layout would lead to a design revolution, but that what necessarily looks good on  page-layout tool is not nescessarily implementable with tables or CSS (223). Dilger suggests we need a 'Grid 2.0' to help re-tool the grid mentality.
+
+I am very tempted to call the last few pages of the article pretentious, with it's relating rebellious web design to a politcal revolution, but I do think there is a point burried in there. Most websites looks fairly similar, and it would be nice to shake it up. While I can agree with Dilgers point, I have a stipulation.
+
 "I want to suggest we read 'international compliant' as the expression of a problem: the widespread (even global) collapse of design diversity caused by preference for complicance over style." (223)
 
-Is it compliance or usability? It's both, I'm sure, but there's a difference between 'This design isn't unique' and 'No one knows how to use our website'.
+Is it compliance or usability? It's both, I'm sure, but there's a difference between 'This design isn't unique' and 'No one knows how to use our website.' It is discussed why the web evolved to be grid-like, and even acknowledged that web technologies are currently only build to support that. What Dilger doesn't mention is that because grids are how the internet has worked for so long, users expect content to be delivered in a grid-like format. 
+
+When a user visits a website, they should be table to find and do what they need to quite quickly with minimal instruction. No one wants to use the website it took them 10 minutes to figure out how to use. They'll go somewhere else. If a user is looking for what books they can purchase at a bookstores website, they will expect to see a list of books. How many ways can you present a large list in an immediately understood way? How many of those ways look like a grid? My answer is 'all of them,' but I'm not a designer. Retraining how people have learned to use the internet will be another issue moving off a grid-like layout will cause.
 
 ## Grids
 
