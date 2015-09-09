@@ -17,6 +17,9 @@ The Connections section should discuss 1-2 ways you see how these readings inter
 
 ## Handwriting
 
+Brandon Keim describes how writing things by hand affects the brain. It specifically targets whether writing things by hand benefits memory and a connection with the text. The article discussed whether children writing by-hand less today is going to affect their cognitive abilities. Keim references several small uncontrolled studies where participants who used handwriting rather than typing ended up benefitting in one way or the other. For example, in a study where participants were taught another alphabet, the ones who handwrote the alphabet recalled the new characters better in the future (4). Although lacking hard evidence, Keim concludes that writing by hand feels good, appears to be helpful and implys this is an area that should be studied more. 
+
+I found this article facinating. I have a learning disability (https://en.wikipedia.org/wiki/Dysgraphia) that affects my handwriting significantly, to the point it's illegible. That being said, I still take my notes in class by hand, because I find that easier than typing. Handwriting may not be an effective way for me to communicate with other people, but I prefer using it when writing to myself. I guess I'd agree with the comments that it helps me "sense of my text" (6) and it helps me remember things better. Regarding note-taking, I feel it is significantly easier to listen and write than listen and type.
 
 ## Table History
 
