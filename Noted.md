@@ -47,4 +47,18 @@ I think this is the key usefulness of this feature. CSS can make things smaller 
 
 Tools like the Bootstrap Library, mentioned at the bottom of the article, are basically faking what the grid layout would do. It would also mean developers don't need use a third-party tool to get this functionality, but that it will work in most modern browsers automatically. The less third-party libraries a website needs to load and process in the background, the faster a website will work, which is also a major benefit.
 
-## The Other One
+## Old and New Technology
+
+"simple replacement model, which assumes that old and new technologies are clearly differentiated from one another, both theoretically and in practice, and that new technologies simply replace older, obsolete technologies....straightforward progress model, a new-is-better view in which new technologies are more advanced and therefore more efficient, more powerful, or both. (2)"  - Shiny New Thing problem
+
+"These material tools mediate human encounters with the environment, and in so doing, transform not only the envi-
+ronment but the humans who use the tools as well....the mediational means—that is, the technology—is tied inextricably to social and cultural structures, (4)"
+
+"Interestingly, although the city has a bound Master Water Plan, both Dan and the consulting engineers who produced the plan told me that the “real” city water plan is a two-by-three foot map of the city, depicting the city’s water system in some detail. This map is frequently updated because the water plan is not a “fixed” entity, as the presence of the bound water plan document suggests, but rather in constant flux. (6)"
+
+This article views all writing and technology and communcation: Memo's, faxes, phone calls, meetings, drawings, etc. While not unexpected, I guess, it's interesting. It then goes onto say that the acutal technologies affect what is not technological (memos affect meetings)
+
+"In short, there was a great deal of common ground, or common understandings, about technology—and about the appropriateness of specific technologies to specific, tasks—between Dan, his staff, and the F&P engineers, although this common ground seemed not to be articulated." (7-8) 
+
+
+
