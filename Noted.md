@@ -60,5 +60,17 @@ This article views all writing and technology and communcation: Memo's, faxes, p
 
 "In short, there was a great deal of common ground, or common understandings, about technology—and about the appropriateness of specific technologies to specific, tasks—between Dan, his staff, and the F&P engineers, although this common ground seemed not to be articulated." (7-8) 
 
+"Competing visions of technology were also operative, and although none of these competing visions about electronic communication has yet won out, they have in effect neutralized one another. (8)"  - John wanted a e-mail system, others didn't care enough to work towards getting it. Elana liked face-to-face contact, phone calls and notices and didn't see the point. Justin thought the city just didn't find tech popular: there was a powerful old group of citizens that didn't care for change.
+
+"Justin is skeptical of John’s model of straightforward progress. (10)"  - Sometimes it is necessary to force progress before you get stuck by being too far behind. I am not saying the people in the case study were stuck yet, but they're on their way. They already cited problems with meeting anoucements being very delayed. You are stuck when you need a solution and don't have time to play catch-up.
+
+"A solution without a problem (9)" - I just like that in general.
+
+The long summary of cataloging communication on pg 11 is interesting, but too long to quote.
+
+The pamphlet from the state is polically motivated while the other documents are more procedureal or more technical. Most of the intended audiance doesn't get to reading it due to the handling of the brochure itself, some give it a quick glance. (12) I imagine, considering the location, the women attending the clinic are well aware there will be attempts to change their decision and they've thought it through at that point.
+
+Left off page 13 "BIJKER’S THEORY OF SOCIOTECHNICAL CHANGE"
+
 
 
