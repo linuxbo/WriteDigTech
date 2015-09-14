@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>
+4662W - Responsive Layout Workshop Tutorial
+</title>
+<style type="text/css">
+/* I am a COMMENT. The computer ignores anything between these characters,
+ * as long as it is within the style tags. 
+ */
+
+body { margin: 0 auto; overflow:hidden;} /* No need to adjust this line. */
+
+#header{
+	background-color: orange;
+	width: 100%;
+	height: 20%;
+	min-height: 50px;
+}
+
+#mainContent{
+	background-color: blue;
+	color:white;
+	width: 100%;
+	overflow: hidden;
+	height: 70%;
+	min-height: 130px;
+}
+
+#leftText{
+	border: 2px solid black;
+	background-color: white;
+	color:black;
+	float: left;
+	width: 40%;
+	min-width: 200px;
+}
+
+#rightText{
+	border: 2px solid grey;
+	background-color: black;
+	color:white;
+	float: right;
+	width: 40%;
+	min-width: 200px;
+}
+
+#footer{
+	background-color: lime;
+	width: 100%;
+	height: 10%;
+	float:left;
+	min-height: 15px;
+}
+</style>
+</head>
+<body>
+<div id="header">
+	<h1>#header</h1>
+</div>
+<div id="mainContent">
+<h2>#mainContent</h2>
+	<div id="leftText">
+		<h3>#leftText</h3>
+		<p>This text will be on the left!</p>
+	</div>
+	<div id="rightText">
+		<h3>#rightText</h3>
+		<p>This text will be on the right!</p>
+	</div>
+</div>
+<div id="footer">
+	<h1>#footer</h1>
+</div>
+</body>
+</html>
