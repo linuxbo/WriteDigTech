@@ -1,4 +1,4 @@
-##How Did we Get Here?
+##How Did We Get Here?
 
 This article explores the development of how browsers interpret HTML to show how web standards can change and how we ended up where we are today. It starts with a report on the development of the image tag. Several developers shared various ideas for what they were implementing in their own browsers. Finally, a 'concencious' was reached by a developer who released their product first, and others followed his standard. 
 
@@ -17,3 +17,25 @@ And that is the primary reason I got interested in technical writing. I want to 
 This video quickly explains how pages are rendered in the browser. It briefly introduces the DOM and CSSDOM, and then shows how the browser plots out how it is going to render the information by making a render tree combining the DOM and the CSSDOM. This creates the website's layout. It ends with showing on a timeline step-by-step calls to functions that the browser makes to visually put this data on the page.
 
 I thought this video was super interesting. My mind has always jumped from 'well, there's a DOM and then that appears on the page.' Seeing how everything is plotted out and ends up visible to the user was interesting. I think it's easy to take some technology for granted as 'just working,' which I was certainly doing before.
+
+## HTML and CSS - Intro
+
+In the introduction to one of our textbooks, the book briefly overviews what various web technologies (HTML, CSS, Browsers etc.) are and how these technologies come together to make a website. It also demonstrates how websites are accessed. Basically, a browser is given a URL to try and access by the person using it. The browser then silently goes to a DNS lookup server to figure out what computer on the planet holds the information that should display at the typed in URL. The browser then talks to that specific computer, and gets the information on the website, and displays that for the user.
+
+I don't have much to say about besides this: I never in my wildest dreams thought a book on HTML and CSS would start with how web servers work, so hats off to this book.
+
+## HTML and CSS - Structure
+
+This chapter explains how the structures of digitial, or even printed, documents can be related to how the web is layed out. It then explains that HTML is what is used to define this layout for a website, and goes over basic HTML tags, or code snippets, that can define how the text should display. There are also special tags that won't (usually) change how the page is displaying, but are still used to define a website structure, like the head tag. The chapter concludes by saying what you may want to consider if you're using a CMS or need to view the HTML for someone else's webpage.
+
+While I am quite familar with this information, I am reading the text as an example of excellent technical writing. Observing how it breaks down how attributes work or even the idea of comparing a word document to a website gives me tools to store in my belt for later. I think the books choice, mentioned in the intro, to depart from a normal textbook format was a great benefit to it and I'm interested to see how it explains other concepts.
+
+## HTML and CSS - Links
+
+Links are how pages connect with one another. There are a variety of things you can do with a link: it can open in a new window, it can stay on the same webpage, it can go to a different website, or a different page on the current site. The text covers how these different actions can happen and how it works. It also overviews directory structures of websites and how various folders and files inside this directory structure relate to how the the user can access webpages via this structure. It then discussed relative links, and how the files in this directory structure can access each other. 
+
+Once again, I think the writing of this is excellent. However, I dislike the section on relative links because it leaves out key information. While relative links as  described are useful if you are running a website without a URL, it is best not to use them as described on an actual server. Say a file is located at extra/file.html and is links to ../link.html (A parent directory of /extra/). File.html is then moved to the same directory as link.html (../file.html). The link is no longer located at ../link.html (a parent directory), it is located at ./link.html (The current directory). To avoid this, it is best to write relative links like the following:
+
+     <a href="/link.html">Link</a>
+
+Note the leading slash. But, as the textbook notes (84), that only works on a server. Still, I feel a mention of complications when files are moved should at least be discussed by the textbook considering it covers a lot of other things in detail.
