@@ -38,4 +38,4 @@ Once again, I think the writing of this is excellent. However, I dislike the sec
 
      <a href="/link.html">Link</a>
 
-Note the leading slash. But, as the textbook notes (84), that only works on a server. Still, I feel a mention of complications when files are moved should at least be discussed by the textbook considering it covers a lot of other things in detail.
+Note the leading slash. This will always start looking for the file from the root directory of the website, instead of where the current webpage is located. But, as the textbook notes (84), that only works on a server. Still, I feel a mention of complications when files are moved should at least be discussed by the textbook considering it covers a lot of other things in detail. Putting a site on a server with relative links on it as described in the book is bad practice, and there should at least be a warning.
