@@ -1,4 +1,4 @@
-##HOW DID WE GET HERE?
+##How Did we Get Here?
 
 This article explores the development of how browsers interpret HTML to show how web standards can change and how we ended up where we are today. It starts with a report on the development of the image tag. Several developers shared various ideas for what they were implementing in their own browsers. Finally, a 'concencious' was reached by a developer who released their product first, and others followed his standard. 
 
