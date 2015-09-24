@@ -8,3 +8,18 @@ Write a post on Prose.io, documenting insights gleaned from this assignment, and
 3) Floating headers has always been a pain, and continued it's tradition. I only tested in Chrome. I have no idea what a mess I made in other browsers.
 
 4) I have no idea what "conceptual framework surrounding mediation" means.
+
+https://en.wikipedia.org/wiki/Mediation_(Marxist_theory_and_media_studies)#Mediation_in_media_studies
+
+"thinkers try to look at how a given medium reconciles the various forces of history, culture, economics or the material world, and how social actors use that medium to navigate these various meanings and values."
+
+------------------------------------
+
+I started this assignment by playing with the pure.CSS framework. I figured I could see what that framework could do, and then I would recode the website as close as I could without a framework. I chose pure.css because I had used bootstrap before, but pure.css was new to me. 
+
+I mostly just used the Grids feature (http://purecss.io/grids/) to position elements on the page. I didn't really set out with a goal, I just wanted to see what it would do.
+
+What is did most of this time was this:
+
+
+
