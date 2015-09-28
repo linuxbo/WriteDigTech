@@ -9,3 +9,6 @@ https://github.com/Writing-with-Digital-Technologies-f15
 Meet your new best friend:
 
 http://www.freeformatter.com/html-formatter.html#ad-output
+
+
+http://journal.code4lib.org/articles/9059
