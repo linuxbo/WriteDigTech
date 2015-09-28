@@ -1,4 +1,7 @@
-# WriteDigTech http://murtosl.github.io/WriteDigTech/
+# WriteDigTech 
+
+http://murtosl.github.io/WriteDigTech/
+
 WRIT 4662W - Writing with Digital Technology: Lindgren
 
 http://4662wf15.clindgrencv.com/
