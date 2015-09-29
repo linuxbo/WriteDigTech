@@ -16,6 +16,8 @@ http://www.freeformatter.com/html-formatter.html#ad-output
 
 Links for History Project
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video
+
 https://developers.whatwg.org/the-video-element.html#the-video-element
 
 
